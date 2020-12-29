@@ -6,8 +6,8 @@ var connection = mysql.createConnection(
     {
         host: 'localhost',
         user: 'root',
-        password: 'password',
-        database: 'sawmCrm',
+        password: 'root',
+        database: 'Crm',
         dateStrings: true
     }
 );

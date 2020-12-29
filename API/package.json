@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "body-parser": "^1.19.0",
+    "constantinople": "^4.0.1",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
@@ -15,7 +16,8 @@
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
     "mysql": "^2.18.1",
+    "nodemon": "^2.0.6",
     "request": "^2.88.2",
-    "strong-soap": "^1.22.1"
+    "strong-soap": "^3.0.0"
   }
 }
